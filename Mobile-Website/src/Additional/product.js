@@ -137,6 +137,6 @@ const Products=[
     name:"CMF Phone 2 Pro",
     image:"https://tse2.mm.bing.net/th/id/OIP.9V28e06zUZtLPeDfu1NQoQAAAA?r=0&pid=Api&h=220&P=0",
     price:"$18,999"
-    }
+    },
 ]
 export default Products;
